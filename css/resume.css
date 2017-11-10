@@ -7,6 +7,10 @@ html{
 	line-height: 1.4;
 	background-color: #34484e;
 }
+header{
+	height:auto;
+	padding-bottom: 5%;
+}
 img{
 float:right;
 width:220px;
@@ -15,7 +19,6 @@ border-color: #ccc;
 border-radius: 3px;
 font:#000;
 box-shadow:2px 4px rgba(0,0,0,0.2);
-margin-top: -7%;
 }
 
 #wrapper{
@@ -25,6 +28,17 @@ margin-top: -7%;
 	margin-right: auto;
 }
 
-header>h1{
-	font-family: montez, cursive;
+div>h1{
+	
+    font-family: giddyup-std, sans-serif;
+}
+#info{
+	width:30%;
+	float:left; 
+	padding-top:2%;
+}
+#crdn{	
+width:70%;
+padding-top:1%;
+margin-left:60%;
 }
