@@ -1,0 +1,93 @@
+/*@media only screen and (max-width: 740px){
+	
+	#crdn{
+	width:30%;
+	margin-top:-95%;
+	margin-left:-200px;
+	visibility:hidden
+	
+	
+}
+}*/
+@media only screen and (max-width:1350px){
+	#crdn{
+	width:30%;
+	margin-top:-95%;
+	margin-left:-200px;
+	visibility:hidden}
+}
+@media only screen and (max-width:810px){
+	
+}
+
+@media only screen and (max-width: 570px){
+	
+	html{
+    	width: 100%;
+    	margin: auto; 
+		
+    }
+	img{
+		float:none;
+		height: auto;
+    }
+		.langue{
+	
+	width:90%
+	
+}
+
+.hobbies{
+	width:90%;
+	float:none;
+	
+}
+#crdn{
+	width:30%;
+	margin-top:-95%;
+	margin-left:-200px;
+	visibility:hidden
+	
+	
+}
+}
+
+@media only screen and (max-width: 480px){
+	
+	 html{
+    	width: 100%;
+    	 margin: auto; 
+		
+    }
+	img{
+		float:none;
+		height: auto;
+    }
+	.langue{
+	
+	width:90%
+	
+}
+
+.hobbies{
+	width:90%;
+	float:none;
+	
+}
+section{width:90%;margin:auto}
+h3{
+	text-align:center;
+	
+}
+#crdn{
+	float:none;
+	margin:auto;
+}
+.tooltip{ padding-left:auto;
+line-height:50px;
+margin-bottom:-30px;
+}
+.phone,.mail{
+	float:left
+}
+}
